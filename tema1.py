@@ -30,4 +30,6 @@
 #a = 'ana are mere si nu are pere'
 #Result: 7
 
-
+>>> a = 'ana are mere si nu are pere'
+>>> len(a.split())
+7
